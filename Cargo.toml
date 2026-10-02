@@ -1,0 +1,7 @@
+[package]
+name = "logscan"
+version = "0.1.0"
+edition = "2021"
+description = "A concurrent, multi-threaded log file analyzer (std only, no dependencies)"
+
+[dependencies]
